@@ -1,0 +1,23 @@
+class knot
+{
+	public string Initialize(int i, string buff_mas, string path)
+	{
+		string path_left,path_right;
+	path_left = make_knot_left(int i, string buff_mas, path);
+	i++;
+	path_right = make_knot_right(int i, string buff_mas, path);
+	i++;
+	}
+
+	string make_knot_left(int i, string buff_mas,string path)
+	{
+	string left_value = " ";
+	left_value = buff_mas[i];
+	return path = path+"\left";
+	}
+	string make_knot_right(int i, string buff_mas,string path)
+	{
+	string right_value = " ";
+	right_value = buff_mass[i];
+	return path = path+"\right";
+	}
