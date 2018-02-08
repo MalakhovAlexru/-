@@ -1,0 +1,6 @@
+c:\users\maa_000\documents\visual studio 2015\Projects\Lesson01_HW\Lesson01_HW_02\bin\Debug\Lesson01_HW_02.exe.config
+c:\users\maa_000\documents\visual studio 2015\Projects\Lesson01_HW\Lesson01_HW_02\bin\Debug\Lesson01_HW_02.exe
+c:\users\maa_000\documents\visual studio 2015\Projects\Lesson01_HW\Lesson01_HW_02\bin\Debug\Lesson01_HW_02.pdb
+c:\users\maa_000\documents\visual studio 2015\Projects\Lesson01_HW\Lesson01_HW_02\obj\Debug\Lesson01_HW_02.csprojResolveAssemblyReference.cache
+c:\users\maa_000\documents\visual studio 2015\Projects\Lesson01_HW\Lesson01_HW_02\obj\Debug\Lesson01_HW_02.exe
+c:\users\maa_000\documents\visual studio 2015\Projects\Lesson01_HW\Lesson01_HW_02\obj\Debug\Lesson01_HW_02.pdb

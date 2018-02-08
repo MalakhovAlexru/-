@@ -1,0 +1,10 @@
+c:\users\maa_000\documents\visual studio 2015\Projects\Lesson01_HW\Lesson01_HW_03\bin\Debug\Lesson01_HW_03.exe.config
+c:\users\maa_000\documents\visual studio 2015\Projects\Lesson01_HW\Lesson01_HW_03\bin\Debug\Lesson01_HW_03.exe
+c:\users\maa_000\documents\visual studio 2015\Projects\Lesson01_HW\Lesson01_HW_03\bin\Debug\Lesson01_HW_03.pdb
+c:\users\maa_000\documents\visual studio 2015\Projects\Lesson01_HW\Lesson01_HW_03\obj\Debug\Lesson01_HW_03.csprojResolveAssemblyReference.cache
+c:\users\maa_000\documents\visual studio 2015\Projects\Lesson01_HW\Lesson01_HW_03\obj\Debug\Lesson01_HW_03.exe
+c:\users\maa_000\documents\visual studio 2015\Projects\Lesson01_HW\Lesson01_HW_03\obj\Debug\Lesson01_HW_03.pdb
+C:\Users\alexm\Dropbox\Домашки\Lesson01_HW\Lesson01_HW_03\bin\Debug\Lesson01_HW_03.exe.config
+C:\Users\alexm\Dropbox\Домашки\Lesson01_HW\Lesson01_HW_03\obj\Debug\Lesson01_HW_03.exe
+C:\Users\alexm\Dropbox\Домашки\Lesson01_HW\Lesson01_HW_03\obj\Debug\Lesson01_HW_03.pdb
+C:\Users\alexm\Dropbox\Домашки\Lesson01_HW\Lesson01_HW_03\obj\Debug\Lesson01_HW_03.csprojResolveAssemblyReference.cache
