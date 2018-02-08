@@ -1,0 +1,2 @@
+C:\Users\maa_000\documents\visual studio 2015\Projects\Lesson05\04\bin\Debug\04.exe.config
+C:\Users\alexm\Dropbox\Домашки\Lesson05\04\bin\Debug\04.exe.config
